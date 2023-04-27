@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+fix yolo classify model loading error (#9196)
