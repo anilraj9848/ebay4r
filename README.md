@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
