@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
